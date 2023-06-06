@@ -1,0 +1,4 @@
+read: 20
+write: 10000
+move_on_one: 40 
+rewind: 1000

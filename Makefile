@@ -1,7 +1,7 @@
 all: build
 
 build:
-	g++ *.cpp -o tape_sort
+	g++ *.cpp -o sort_tape
 
 clean:
 	rm *.o

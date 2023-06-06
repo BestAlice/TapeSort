@@ -12,6 +12,7 @@ public:
     virtual bool move_back() = 0;
     virtual bool move_to_beg() = 0;
     virtual bool move_to_end() = 0;
+    bool is_end();
 };
 
 #endif
